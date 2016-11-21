@@ -6,5 +6,6 @@ void setup(){
 }
 
 void draw(){
+  fill(22,228,245);
   ellipse(random(1000), random(1000), 10, 10);
 }
